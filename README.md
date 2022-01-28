@@ -2,7 +2,9 @@
 
 This is unofficial code of MI-EEG-1D-CNN for pytorch. Please see https://github.com/Kubasinska/MI-EEG-1D-CNN.
 
+## Environment
 
+Follow the above environment with LTS pytorch(1.8.2) version.
 
 ## Dataset
 
@@ -14,7 +16,8 @@ Download the EEG Motor Movement/Imagery Dataset [here](https://physionet.org/con
 2. Run main.py `python main.py`
 
 ## Result
-
+![Accuracy](./Accuracy.png)
+![Loss](./Loss.png)
 
 ## Citation
 ```bibtex
